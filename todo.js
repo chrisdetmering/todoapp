@@ -1,0 +1,1 @@
+const todos = document.getElementById('todos');
